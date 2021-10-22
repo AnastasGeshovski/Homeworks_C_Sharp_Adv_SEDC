@@ -1,0 +1,14 @@
+E:\SEDC WEB DEVELOPER - Full Materials\2nd Semester Back-End\C#\Advanced_C#\Homeworks_C_Sharp_Advanced\Homework_Car\Homework_Car\obj\Debug\netcoreapp3.1\Homework_Car.csproj.AssemblyReference.cache
+E:\SEDC WEB DEVELOPER - Full Materials\2nd Semester Back-End\C#\Advanced_C#\Homeworks_C_Sharp_Advanced\Homework_Car\Homework_Car\obj\Debug\netcoreapp3.1\Homework_Car.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEDC WEB DEVELOPER - Full Materials\2nd Semester Back-End\C#\Advanced_C#\Homeworks_C_Sharp_Advanced\Homework_Car\Homework_Car\obj\Debug\netcoreapp3.1\Homework_Car.AssemblyInfoInputs.cache
+E:\SEDC WEB DEVELOPER - Full Materials\2nd Semester Back-End\C#\Advanced_C#\Homeworks_C_Sharp_Advanced\Homework_Car\Homework_Car\obj\Debug\netcoreapp3.1\Homework_Car.AssemblyInfo.cs
+E:\SEDC WEB DEVELOPER - Full Materials\2nd Semester Back-End\C#\Advanced_C#\Homeworks_C_Sharp_Advanced\Homework_Car\Homework_Car\obj\Debug\netcoreapp3.1\Homework_Car.csproj.CoreCompileInputs.cache
+E:\SEDC WEB DEVELOPER - Full Materials\2nd Semester Back-End\C#\Advanced_C#\Homeworks_C_Sharp_Advanced\Homework_Car\Homework_Car\bin\Debug\netcoreapp3.1\Homework_Car.exe
+E:\SEDC WEB DEVELOPER - Full Materials\2nd Semester Back-End\C#\Advanced_C#\Homeworks_C_Sharp_Advanced\Homework_Car\Homework_Car\bin\Debug\netcoreapp3.1\Homework_Car.deps.json
+E:\SEDC WEB DEVELOPER - Full Materials\2nd Semester Back-End\C#\Advanced_C#\Homeworks_C_Sharp_Advanced\Homework_Car\Homework_Car\bin\Debug\netcoreapp3.1\Homework_Car.runtimeconfig.json
+E:\SEDC WEB DEVELOPER - Full Materials\2nd Semester Back-End\C#\Advanced_C#\Homeworks_C_Sharp_Advanced\Homework_Car\Homework_Car\bin\Debug\netcoreapp3.1\Homework_Car.runtimeconfig.dev.json
+E:\SEDC WEB DEVELOPER - Full Materials\2nd Semester Back-End\C#\Advanced_C#\Homeworks_C_Sharp_Advanced\Homework_Car\Homework_Car\bin\Debug\netcoreapp3.1\Homework_Car.dll
+E:\SEDC WEB DEVELOPER - Full Materials\2nd Semester Back-End\C#\Advanced_C#\Homeworks_C_Sharp_Advanced\Homework_Car\Homework_Car\bin\Debug\netcoreapp3.1\Homework_Car.pdb
+E:\SEDC WEB DEVELOPER - Full Materials\2nd Semester Back-End\C#\Advanced_C#\Homeworks_C_Sharp_Advanced\Homework_Car\Homework_Car\obj\Debug\netcoreapp3.1\Homework_Car.dll
+E:\SEDC WEB DEVELOPER - Full Materials\2nd Semester Back-End\C#\Advanced_C#\Homeworks_C_Sharp_Advanced\Homework_Car\Homework_Car\obj\Debug\netcoreapp3.1\Homework_Car.pdb
+E:\SEDC WEB DEVELOPER - Full Materials\2nd Semester Back-End\C#\Advanced_C#\Homeworks_C_Sharp_Advanced\Homework_Car\Homework_Car\obj\Debug\netcoreapp3.1\Homework_Car.genruntimeconfig.cache
